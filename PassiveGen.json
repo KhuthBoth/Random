@@ -1,0 +1,55 @@
+{"production": [
+{"dinoType": "Blueprint'/Game/ArkDescended/Dinos/Phiomia/Phiomia_Character_BP_Descended.Phiomia_Character_BP_Descended'", 
+"produces":[
+{
+"intervalSeconds": 5.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/ArkDescended/Items/Essence/DescendedEssence/PrimalItemResource_DescendedEssence.PrimalItemResource_DescendedEssence'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 10.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/ArkDescended/Items/DescendedMilk/PrimalItemResource_DescendedMilk.PrimalItemResource_DescendedMilk'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/ArkDescended/Dinos/Dodo/ExcellentDodo/Dodo_Character_BP_ExcellentTamable.Dodo_Character_BP_ExcellentTamable'", 
+"produces":[
+{
+"intervalSeconds": 2.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/ArkDescended/Items/Essence/PrimalItemResource_ExcellentEssence.PrimalItemResource_ExcellentEssence'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 5.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
+],
+"alternateItems": [
+
+]
+}
+
+]}
+
+
+]
+}
