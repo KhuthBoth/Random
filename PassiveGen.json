@@ -48,6 +48,31 @@
 ]
 }
 
+]},
+{"dinoType": "Blueprint'/Game/ArkDescended/Dinos/Ptero/Unreal/Ptero_Character_BP_Unreal.Ptero_Character_BP_Unreal'", 
+"produces":[
+{
+"intervalSeconds": 5.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/ArkDescended/Items/Essence/UnrealEssence/PrimalItemResource_UnrealEssence.PrimalItemResource_UnrealEssence'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 20.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/ArkDescended/Items/Soul/Excellent/PrimalItemResource_ExcellentSoul.PrimalItemResource_ExcellentSoul'"
+],
+"alternateItems": [
+
+]
+}
+
 ]}
 
 
